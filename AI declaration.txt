@@ -1,0 +1,4 @@
+AI tools were used as a support tool throughout this project. Chatgpt helped with understanding Python and machine learning concepts, explaining code, debugging errors, and improving the structure and wording of the report.
+AI was also used to help develop and review parts of the Streamlit interface and to prepare explanations for the project presentation. Any suggestions provided by AI were reviewed and tested before being used.
+The final code, model results, evaluation and project decisions were based on our own implementation and testing. For example, the reported 79.25% accuracy came directly from our trained model's evaluation.
+Overall, AI was used to support our learning and development, but it did not replace our own testing, understanding or responsibility for the final project.
